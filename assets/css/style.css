@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  background-color: tomato;
+}
+
+.text {
+  text-align: center;
+  margin-top: 50%;
+}
+
+.btn {
+  margin-left: 135px;
+  background-color: yellow;
+  color: ;
+  width: 100px;
+  height: 40px;
+  font-size: 18px;
+  margin-top: 17px;
+  border-radius: 15px;
+}
+
+.fa-solid {
+  color: red;
+  margin-left: 100px;
+  display: inline-block;
+  margin-bottom: 100%;
+}
